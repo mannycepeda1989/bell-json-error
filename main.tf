@@ -2,7 +2,7 @@
 locals {
   test_metadata = {
     username = "testuser"
-    password = "testpassword123"
+    password = "a7F!9zQ2#mX5$pK8^dL1*vT4@rY6&bN3"
   }
 }
 
